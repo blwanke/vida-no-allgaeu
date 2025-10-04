@@ -7,5 +7,4 @@ Um passeio super legal é ir ao cânion que se chama **Breitachklamm**, onde cor
 Custa atualmente 7 Euros por adulto, mais o estacionamento e dura cerca de uma hora, dependendo do passo que se vai.
 
 Se caminha pelas parades do cânion vendo o rio correr às vezes mais forte e as vezes mais lento. A água impressiona pela sua cor azul e o contraste com as rochas que formam  o cânion. 
-
-<img src="vida-no-allgaeu/assets/images/foto 1 - entrada canion.jpg" alt="Início da caminhada" width="600">
+<img src="{{ site.baseurl }}/assets/images/foto-1-entrada-canion.jpg" alt="Início da caminhada">
