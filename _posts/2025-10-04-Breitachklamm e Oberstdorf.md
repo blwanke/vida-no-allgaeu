@@ -8,4 +8,4 @@ Custa atualmente 7 Euros por adulto, mais o estacionamento e dura cerca de uma h
 
 Se caminha pelas parades do cânion vendo o rio correr às vezes mais forte e as vezes mais lento. A água impressiona pela sua cor azul e o contraste com as rochas que formam  o cânion. 
 
-<img src="{{ '/assets/images/entrada-breitachklamm.jpg' | relative_url }}" alt="Início da caminhada">
+<img src="/assets/images/entrada-breitachklamm.jpg" alt="Início da caminhada">
