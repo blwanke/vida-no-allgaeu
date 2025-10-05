@@ -4,7 +4,7 @@ date: 2025-10-04
 categories: [blog]
 ---
 Um passeio super legal no sul da Alemanha é ir ao cânion que se chama **Breitachklamm**, onde corre o rio Breitach.
-Custa atualmente 7 Euros por adulto, mais o estacionamento que são 4 Euros. A caminhada dura cerca de uma hora, dependendo do ritmo que se vai.
+A caminhada dura cerca de uma hora, dependendo do ritmo que se vai.
 
 Se vai caminhando pelas paredes do cânion, abaixo o rio corre às vezes mais forte fazendo muito barulho e as vezes mais lento formando piscinas azuis. A água impressiona pela sua cor azul e fria, que fazem o contraste com as rochas protuberantes que formam o cânion. 
 
