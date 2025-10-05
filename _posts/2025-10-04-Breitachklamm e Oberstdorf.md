@@ -23,7 +23,8 @@ No final da caminhada é possível subir pela floresta para depois descer pela m
 
 O Breitachklamm fica perto da cidade de Oberstdort, que é a cidade mais ao sul da Alemanha. O centro da cidade está cheio de casas antigas de madeira com vários detalhes entalhados. As próprias casas já são uma obra de arte. Além disso, a cidade é decorada com flores e algumas vitrines exibem trabalhos artísticos em madeira, como presépios, animais e personagens. Ao fundo de toda a paisagem se vê as montanhas, o que torna tudo em um cenário de conto de fadas. 
 
-De lá se pode tomar um teleférico para subir a montanha. Mas não posso dizer muito, porque este passeio eu ainda não fiz.
+De lá se pode tomar um teleférico para subir a montanha. Mas não posso dizer muito, porque este passeio eu ainda não fiz...
+
 
 <img src="{{ 'assets/images/flor.jpeg' | relative_url }}" alt="Uma florzinha, uma das milhares em Oberstdorf." widh="400">
 
