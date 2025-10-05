@@ -138,6 +138,16 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
+# Sidebar global
+sidebar:
+  - title: "Últimos Posts"
+    type: recent_posts
+    count: 5
+  - title: "Categorias"
+    type: categories
+  - title: "Tags"
+    type: tags
+
 # Site Footer
 footer:
   links:
