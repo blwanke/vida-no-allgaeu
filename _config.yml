@@ -113,9 +113,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Bruna"
+  name             : "Bruna Wanke"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "Este blog é meu cantinho para registrar meus momentos nesse mundo gigante"
   location         : "Allgäu, sul da Alemanha"
   email            :
   links:
