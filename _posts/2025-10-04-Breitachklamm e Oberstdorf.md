@@ -8,8 +8,16 @@ Custa atualmente 7 Euros por adulto, mais o estacionamento quesão 4 Euros. A ca
 
 Se caminha pelas parades do cânion vendo o rio correr às vezes mais forte e as vezes mais lento. A água impressiona pela sua cor azul e o contraste com as rochas que formam  o cânion. 
 
+<!--
 <img src="{{ '/assets/images/entrada-breitachklamm.jpg' | relative_url }}" alt="Início da caminhada">
-<img src="{{ 'assets/images/canion-breitachklamm.jpeg' | relative_url }}" alt="Vista do cânion">
+<img src="{{ 'assets/images/canion-breitachklamm.jpeg' | relative_url }}" alt="Vista para cânion">
+-->
+
+<div style="display: flex; gap: 10px;">
+  <img src="{{ 'assets/images/entrada-breitachklamm.jpg' | relative_url }}" alt="Início da caminhada" width="300">
+  <img src="{{ 'assets/images/canion-breitachklamm.jpeg' | relative_url }}" alt="Vista para cânion" width="300">
+</div>
+
 
 No final da caminhada é possível sair da parte do cânion e subir pela floresta para depois descer pela montanha. A vista é muito bonita, mas a caminhada acaba se tornando bastante longa. Não recomendo para quem já está cansado.
 
@@ -17,7 +25,5 @@ O Breitachklamm fica perto da cidade de Oberstdort, que é a cidade mais ao sul 
 
 De lá se pode tomar um teleférico para subir a montanha. Mas não posso dizer muito, porque este passeio eu ainda não fiz.
 
-<img src="{{ 'assets/images/canion-breitachklamm.jpeg' | relative_url }}" alt="Uma florzinha, uma das milhares em Oberstdorf.">
-
-<img src="{{ 'assets/images/flor.jpeg' | relative_url }}" alt="Início da caminhada">
+<img src="{{ 'assets/images/flor.jpeg' | relative_url }}" alt="Uma florzinha, uma das milhares em Oberstdorf." widh="400">
 
