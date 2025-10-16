@@ -19,7 +19,7 @@ Essa última escutei só no Allgäu mesmo. Como seria essa expressão no Brasil?
 
 **Ich bin eine Kartoffel** - "Eu sou uma batata" - é uma forma de dizer que "eu sou alemão". Inclusive quando recebi minha nacionalidade alemã, me falaram que eu tinha que fazer minha festa da batata, pois eu tinha virado uma. Até hoje não organizei a festa. É uma forma de humor auto depreciativo, tipo, "eles comem tanta batata, que eles são a batata que aqui cresce". 
 
-Fui pesquisar na internet e descobri que a expressão tem vários significados. Para algumas pessoas quer dizer que são alemães típicos e não um alemão filho de imigrantes, o que acaba trazendo um significado político pra expressão. Mas eu mesma só escutei como uma forma de rir de sí mesmo, já que uma batata não é algo de muito valor e se come muito aqui. Mesmo sendo meio que uma piada, eu sinto que eles tem um pouco de orgulho da batata. 
+Fui pesquisar na internet e descobri que a expressão tem vários significados. Para algumas pessoas quer dizer que são alemães típicos e não um alemão filho de imigrantes, o que acaba trazendo um significado político pra expressão. Mas eu mesma só escutei como uma forma de rir de si mesmo, já que uma batata não é algo de muito valor e se come muito aqui. Mesmo sendo meio que uma piada, eu sinto que eles tem um pouco de orgulho da batata. 
 
 Se os brasileiros tivessem uma expresão parecida, acho que diriam "eu sou uma banana".
 
