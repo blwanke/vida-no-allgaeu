@@ -4,6 +4,7 @@ date: 2025-09-30
 categories: [blog]
 ---
 Existem várias expressões, formas de falar, engraçadas na Alemanha. Aqui no Allgäu se fala também com um sotaque típico de interior da região, o que as torna mais engraçadas pra quem entende o dialeto. Já para alguém que está aprendendo alemão, é bastante difícil entender alguma coisa. 
+
 Algumas expressões típicas são:
 
 **Das ist mir wurst** -"Isso pra mim é linguiça" quer dizer que algo é indiferente, que tanto faz, que não tem importância. Afinal, é isso é só uma linguiça. 
