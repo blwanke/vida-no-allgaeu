@@ -1,7 +1,7 @@
 ---
 title: "Oberstaufen, uma cidadezinha toda bonitinha"
 date: 2025-10-25
-categories: [blog, Lugares, Experiências, Reflexões]
+categories: [Lugares]
 gallery:
   - url: /assets/images/Oberstaufen/arvore amarela.jpeg
     image_path: /assets/images/Oberstaufen/arvore amarela.jpeg
