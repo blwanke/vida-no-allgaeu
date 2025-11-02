@@ -1,0 +1,10 @@
+/* Personalizações para a galeria */
+figure.third figcaption {
+    font-family: $global-font-family;
+    font-size: 0.9em;
+    font-weight: bold;
+    color: $text-color;
+    margin-top: 1em;
+    text-align: center;
+    line-height: 1.4;
+}
