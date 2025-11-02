@@ -2,7 +2,19 @@
 title: "Oberstaufen, uma cidadezinha toda bonitinha"
 date: 2025-10-25
 categories: [blog, Lugares, Experiências, Reflexões]
-gallery: true
+gallery:
+  - url: /assets/images/Oberstaufen/arvore amarela.jpeg
+    image_path: /assets/images/Oberstaufen/arvore amarela.jpeg
+    alt: "Árvore com folhas amarelas no outono"
+    title: "Árvore com folhas amarelas"
+  - url: /assets/images/Oberstaufen/vista com cabra.jpeg
+    image_path: /assets/images/Oberstaufen/vista com cabra.jpeg
+    alt: "Vista da cidade com cabra"
+    title: "Vista da cidade com cabra"
+  - url: /assets/images/Oberstaufen/monte Staufen.jpeg
+    image_path: /assets/images/Oberstaufen/monte Staufen.jpeg
+    alt: "Monte Staufen"
+    title: "Monte Staufen"
 ---
 
 Quando vim pela primeira vez a Oberstaufen, não achei grande coisa. Eu não estava interessada em conhecer uma cidade tão pequena ou muito menos morar aqui. Vim morar aqui porque era mais perto do meu trabalho e era mais prático para o dia-a-dia, dentre outras razões.
@@ -15,10 +27,5 @@ A uma altitude de 791m, aqui se consegue perceber bastante as diferentes estaç�
 
 Agora estamos no Outono aqui e as cores estão super bonitas quando sai o sol. Aqui algumas fotos do último passeio pelo parque.
 
-{% assign oberstaufen = site.data.gallery.oberstaufen %}
-
-{% include gallery
-   id="oberstaufen"
-   layout="third"
-   caption="Passeio pelo parque em Oberstaufen" %}
+{% include gallery caption="Passeio pelo parque em Oberstaufen" %}
 
