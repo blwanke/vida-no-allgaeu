@@ -10,10 +10,10 @@ search: false
 
 // Personalizações para a galeria
 figure.third figcaption {
-    font-family: "Playfair Display", serif;  // fonte mais elegante
-    font-size: 1.1em;  // tamanho um pouco maior
-    font-style: italic;  // estilo itálico
-    color: #666;  // cor cinza mais suave
+    font-family: $global-font-family;  // mesma fonte do blog
+    font-size: 0.9em;  // tamanho menor que o texto do blog
+    font-weight: bold;  // negrito
+    color: $text-color;  // mesma cor do texto do blog
     margin-top: 1em;  // espaço acima da legenda
     text-align: center;  // centralizado
     line-height: 1.4;  // espaçamento entre linhas
