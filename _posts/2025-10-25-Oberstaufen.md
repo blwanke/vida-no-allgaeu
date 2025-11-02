@@ -15,12 +15,10 @@ A uma altitude de 791m, aqui se consegue perceber bastante as diferentes estaç�
 
 Agora estamos no Outono aqui e as cores estão super bonitas quando sai o sol. Aqui algumas fotos do último passeio pelo parque.
 
+{% assign oberstaufen = site.data.gallery.oberstaufen %}
+
 {% include gallery
-  id="oberstaufen"
-  caption="Passeio pelo parque em Oberstaufen"
-  columns="3"
-  images="
-    /assets/images/Oberstaufen/arvore amarela.jpeg,
-    /assets/images/Oberstaufen/vista com cabra.jpeg,
-    /assets/images/Oberstaufen/monte Staufen.jpeg"
-%}
+   id="oberstaufen"
+   layout="third"
+   caption="Passeio pelo parque em Oberstaufen" %}
+

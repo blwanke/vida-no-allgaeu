@@ -6,7 +6,7 @@ categories: [blog,Lugares]
 Um passeio super legal no sul da Alemanha é ir ao cânion que se chama **Breitachklamm**, onde corre o rio Breitach.
 A caminhada dura cerca de uma hora, dependendo do ritmo que se vai.
 
-Se vai caminhando pelas paredes do cânion, abaixo o rio corre às vezes mais forte fazendo muito barulho e as vezes mais lento formando piscinas azuis. A água impressiona pela sua cor azul e fria, que fazem o contraste com as rochas protuberantes que formam o cânion.
+Se vai caminhando pelas paredes do cânion, abaixo o rio corre às vezes mais forte fazendo muito barulho e às vezes mais lento formando piscinas azuis. A água impressiona pela sua cor azul e parece ser bastante fria. As rochas do cânion têm uma cor acinzentada e às vezes um pouco de marrom. Elas também têm formas impressionantes esculpidas pela água ao longo do tempo.
 
 <!--
 <img src="{{ '/assets/images/entrada-breitachklamm.jpg' | relative_url }}" alt="Início da caminhada">

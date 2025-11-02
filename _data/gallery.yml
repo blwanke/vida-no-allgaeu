@@ -1,0 +1,10 @@
+oberstaufen:
+  - image_path: /assets/images/Oberstaufen/arvore amarela.jpeg
+    alt: "Árvore com folhas amarelas no outono"
+    title: "Árvore com folhas amarelas"
+  - image_path: /assets/images/Oberstaufen/vista com cabra.jpeg
+    alt: "Vista da cidade com cabra"
+    title: "Vista da cidade com cabra"
+  - image_path: /assets/images/Oberstaufen/monte Staufen.jpeg
+    alt: "Monte Staufen"
+    title: "Monte Staufen"
