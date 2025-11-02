@@ -30,5 +30,3 @@ O Breitachklamm fica perto da cidade de Oberstdorf, que é a cidade mais ao sul 
 
 De lá se pode tomar um teleférico para subir a montanha. Mas não posso dizer muito, porque este passeio eu ainda não fiz...
 
-{% include gallery caption="Passeio em Oberstdorf %}
-
