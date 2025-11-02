@@ -3,6 +3,10 @@ title: "Oberstaufen, uma cidadezinha toda bonitinha"
 date: 2025-10-25
 categories: [Lugares]
 gallery:
+  - url: /assets/images/Oberstaufen/vista Hochgrat 2.jpeg
+    image_path: /assets/images/Oberstaufen/vista Hochgrat 2.jpeg
+    alt: "Vista para o monte Hochgrat"
+    title: "Vista para o monte Hochgrat"
   - url: /assets/images/Oberstaufen/arvore amarela.jpeg
     image_path: /assets/images/Oberstaufen/arvore amarela.jpeg
     alt: "Árvore com folhas amarelas no outono"
