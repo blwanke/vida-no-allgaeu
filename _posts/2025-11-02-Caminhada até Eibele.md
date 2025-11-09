@@ -4,14 +4,26 @@ date: 2025-09-30
 categories: [Lugares]
 
 gallery_trilha:
+  - url: /assets/images/Eibele Wasserfall/cachoeira.jpg
+    image_path: /assets/images/Eibele Wasserfall/cachoeira.jpg
+    alt: "Cachoeira de Eibele"
+    title: "Cachoeira de Eibele"
   - url: /assets/images/Eibele Wasserfall/caminho na floresta.jpeg
     image_path: /assets/images/Eibele Wasserfall/caminho na floresta.jpeg
     alt: "Caminho na floresta"
     title: "Caminho na floresta"
-  - url: /assets/images/Eibele Wasserfall/arvore amarela.jpeg
-    image_path: /assets/images/Eibele Wasserfall/arvore amarela.jpeg
+  - url: /assets/images/Eibele Wasserfall/arvore amarela.jpg
+    image_path: /assets/images/Eibele Wasserfall/arvore amarela.jpg
     alt: "Árvore amarela"
     title: "Árvore amarela"
+  - url: /assets/images/Eibele Wasserfall/caminho 1.jpg
+    image_path: /assets/images/Eibele Wasserfall/caminho 1.jpg
+    alt: "Na trilha de volta"
+    title: "Na trilha de volta"
+  - url: /assets/images/Eibele Wasserfall/caminho 2.jpg
+    image_path: /assets/images/Eibele Wasserfall/caminho 2.jpg
+    alt: "Na trilha de volta 2"
+    title: "Na trilha de volta 2"
 
 gallery_ponyhof:
   - url: /assets/images/Eibele Wasserfall/taca de porcelana.jpeg
@@ -22,10 +34,14 @@ gallery_ponyhof:
     image_path: /assets/images/Eibele Wasserfall/eu e venancio.jpeg
     alt: "Eu e Venancio"
     title: "Eu e Venancio"
-  - url: /assets/images/Eibele Wasserfall/Hochgrat com neve.jpeg
-    image_path: /assets/images/Eibele Wasserfall/Hochgrat com neve.jpeg
+  - url: /assets/images/Eibele Wasserfall/Hochgrat com neve.jpg
+    image_path: /assets/images/Eibele Wasserfall/Hochgrat com neve.jpg
     alt: "Hochgrat com neve"
     title: "Hochgrat com neve"
+  - url: /assets/images/Eibele Wasserfall/Monte Staufen.jpg
+    image_path: /assets/images/Eibele Wasserfall/Monte Staufen.jpg
+    alt: "Monte Staufen"
+    title: "Monte Staufen"
 ---
 
 Ontem fomos caminhando até uma Cachoeira na Áustria. Por quê? Eu me pergunto. Afinal caminhamos várias horas, quando chegamos na cachoeira ela era bonita e tal, mas já estávamos cansados e ainda teríamos que voltar tudo a pé. A ideia era justamente fazer exercício, mas na hora bateu o arrependimento.
@@ -42,4 +58,4 @@ Na volta passamos por acaso pelo Ponyhof ("Sítio do Pônei"). Já tínhamos ouv
 
 Hoje em dia lá é um lugar super tranquilo, como tudo por aqui, diga-se de passagem. Paramos lá para comer e voltamos pra casa.
 
-{% include gallery id="gallery_ponyhof" layout="third" caption="Volta a Oberstaufen pelo Ponyhof" %}
+{% include gallery id="gallery_ponyhof" layout="half" caption="Volta a Oberstaufen pelo Ponyhof" %}
