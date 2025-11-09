@@ -9,7 +9,7 @@ gallery_trilha:
     alt: "Caminho na floresta"
     title: "Caminho na floresta"
   - url: /assets/images/Eibele Wasserfall/arvore amarela.jpeg
-    image_path: /assets/images/Oberstaufen/arvore amarela.jpeg
+    image_path: /assets/images/Eibele Wasserfall/arvore amarela.jpeg
     alt: "Árvore amarela"
     title: "Árvore amarela"
 
@@ -26,7 +26,7 @@ gallery_ponyhof:
     image_path: /assets/images/Eibele Wasserfall/Hochgrat com neve.jpeg
     alt: "Hochgrat com neve"
     title: "Hochgrat com neve"
-  ---
+---
 
 Ontem fomos caminhando até uma Cachoeira na Áustria. Por quê? Eu me pergunto. Afinal caminhamos várias horas, quando chegamos na cachoeira ela era bonita e tal, mas já estávamos cansados e ainda teríamos que voltar tudo a pé. A ideia era justamente fazer exercício, mas na hora bateu o arrependimento.
 
