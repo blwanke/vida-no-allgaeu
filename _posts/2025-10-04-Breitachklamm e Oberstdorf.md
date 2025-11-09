@@ -2,6 +2,7 @@
 title: "Breitachklamm e Oberstdorf"
 date: 2025-10-04
 categories: [Lugares]
+tags: [Lugares]
 gallery:
   - url: /assets/images/Oberstdorf e Breitachklamm/entrada-breitachklamm.jpg
     image_path: /assets/images/Oberstdorf e Breitachklamm/entrada-breitachklamm.jpg

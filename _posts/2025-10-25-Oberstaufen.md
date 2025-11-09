@@ -2,6 +2,7 @@
 title: "Oberstaufen, uma cidadezinha toda bonitinha"
 date: 2025-10-25
 categories: [Lugares]
+tags: [Lugares]
 gallery:
   - url: /assets/images/Oberstaufen/vista Hochgrat 2.jpeg
     image_path: /assets/images/Oberstaufen/vista Hochgrat 2.jpeg

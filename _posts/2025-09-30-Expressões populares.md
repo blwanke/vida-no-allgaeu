@@ -2,6 +2,7 @@
 title: "Expressões alemãs engraçadas"
 date: 2025-09-30
 categories: [Cultura]
+tags: [Cultura, Língua alemã]
 ---
 
 Existem várias expressões linguísticas alemãs. Aqui no Allgäu se fala também com um sotaque típico de interior da região, o que as torna mais engraçadas pra quem entende o dialeto. Já para alguém que está aprendendo alemão, é bastante difícil entender alguma coisa.

@@ -141,8 +141,8 @@ author:
 # Sidebar global
 sidebar:
   - title: "Últimos Posts"
-    type: recent_posts
-    count: 5
+    url: /posts/
+    icon: "fas fa-fw fa-list"
   - title: "Categorias"
     type: categories
   - title: "Tags"
