@@ -144,9 +144,11 @@ sidebar:
     url: /posts/
     icon: "fas fa-fw fa-list"
   - title: "Categorias"
-    type: categories
+    url: /categories/
+    icon: "fas fa-fw fa-folder-open"
   - title: "Tags"
-    type: tags
+    url: /tags/
+    icon: "fas fa-fw fa-tags"
 
 # Site Footer
 footer:
