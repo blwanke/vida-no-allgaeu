@@ -38,7 +38,7 @@ A parte que eu mais gostei foi o caminho o próprio caminho, porque eu podia fic
 
 Se por um lado o céu fica mais cinza e menos iluminado, por outros as árvores ficam com cores quentes como amarelo, vermelho e marrom. Também é a época das abóboras, que começam a aparecer para vender aos montes no mercado e no campo mesmo. Essas cores dão uma sensação de aconchego, de um "calorzinho", que compensa a falta do sol.
 
-Na volta passamos por acaso pelo Ponyhof. Já tinhamos ouvido falar sobre esse "restaurante", mas não sabíamos que era por ali. O que eu escutei é que antigamente os jovens iam para festas em Oberstaufen para beber e dançar. Assim muitas pessoas se conhecerem e se casaram por aqui, dizem as líguas. Esse Ponyhof aparentemente que era uma casa de festa muito famosa por suas festas mais "liberais".
+Na volta passamos por acaso pelo Ponyhof ("Sítio do Pônei"). Já tínhamos ouvido falar sobre esse "restaurante", mas não sabíamos que era por ali. O que eu escutei é que antigamente os jovens iam para festas em Oberstaufen para beber e dançar. Assim muitas pessoas se conhecerem e se casaram por aqui, dizem as línguas. Esse Ponyhof aparentemente que era uma casa de festa muito famosa por suas festas mais "liberais".
 
 Hoje em dia lá é um lugar super tranquilo, como tudo por aqui, diga-se de passagem. Paramos lá para comer e voltamos pra casa.
 
