@@ -140,15 +140,18 @@ author:
 
 # Sidebar global
 sidebar:
-  - title: "Últimos Posts"
-    url: /posts/
-    icon: "fas fa-fw fa-list"
-  - title: "Categorias"
-    url: /categories/
-    icon: "fas fa-fw fa-folder-open"
-  - title: "Tags"
-    url: /tags/
-    icon: "fas fa-fw fa-tags"
+  - title: "Navegação"
+    type: links
+    links:
+      - label: "Últimos Posts"
+        url: /posts/
+        icon: "fas fa-fw fa-list"
+      - label: "Categorias"
+        url: /categories/
+        icon: "fas fa-fw fa-folder-open"
+      - label: "Tags"
+        url: /tags/
+        icon: "fas fa-fw fa-tags"
 
 # Site Footer
 footer:
