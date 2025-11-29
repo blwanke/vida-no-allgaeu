@@ -138,21 +138,6 @@ author:
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/lazerawanke/"
 
-# Sidebar global
-sidebar:
-  - title: "Navegação"
-    type: links
-    links:
-      - label: "Últimos Posts"
-        url: /posts/
-        icon: "fas fa-fw fa-list"
-      - label: "Categorias"
-        url: /categories/
-        icon: "fas fa-fw fa-folder-open"
-      - label: "Tags"
-        url: /tags/
-        icon: "fas fa-fw fa-tags"
-
 # Site Footer
 footer:
   links:
