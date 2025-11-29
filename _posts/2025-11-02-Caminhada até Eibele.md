@@ -2,6 +2,7 @@
 title: "Caminhada até a Cachoeira de Eibele e o Ponyhof"
 date: 2025-09-30
 categories: [Lugares]
+tags: [Trilhas, Outono]
 
 gallery_trilha:
   - url: /assets/images/Eibele Wasserfall/cachoeira.jpg
@@ -46,9 +47,9 @@ gallery_ponyhof:
 
 Ontem fomos caminhando até uma Cachoeira na Áustria. Por quê? Eu me pergunto. Afinal caminhamos várias horas, quando chegamos na cachoeira ela era bonita e tal, mas já estávamos cansados e ainda teríamos que voltar tudo a pé. A ideia era justamente fazer exercício, mas na hora bateu o arrependimento.
 
-Aqui na região tem muitas cachoeiras pequenas. De fato, aqui é uma das regiões em que mais se chove na Alemanha. Às vezes se escuta sobre secas em diferentes estados, geralmente no verão. Eu já não me surpreendo quando dizem no verão que o rio Reno está muito baixo por causa da seca. Tenho uma amiga em Nuremberg e ela conta que cada vez as plantas no jardim precisam de mais água porque a chuva não chega, e quando chega não basta. Aqui, por sorte, ainda se chove bastante.
+Aqui na região tem muitas cachoeiras pequenas. De fato, aqui é uma das regiões em que mais se chove na Alemanha. E como é montanhoso, é fácil de se encontrar pequenos rios e cachoeiras.
 
-A parte que eu mais gostei foi o caminho o próprio caminho, porque eu podia ficar admirando as cores das folhas de outono. O outono é a despedida do verão. Os dias vão ficando frios e curtos, mas ainda dá pra aproveitar. O céu fica normalmente mais nublado, diferentemente do verão, que é mais azul.
+A parte que eu mais gostei foi o próprio caminho, porque eu podia ficar admirando as cores das folhas de outono. O outono é a despedida do verão. Os dias vão ficando frios e curtos, mas ainda dá pra aproveitar. O céu fica normalmente mais nublado, diferentemente do verão, que é mais azul.
 
 {% include gallery id="gallery_trilha" layout="half" caption="Trilha até Eibele" %}
 
